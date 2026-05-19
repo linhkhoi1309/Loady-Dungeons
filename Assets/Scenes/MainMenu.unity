@@ -164,6 +164,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_gameLogoImage: {fileID: 1402112333}
+  m_LogoAddress: LoadyDungeonsLogo
+  m_LogoAssetReference:
+    m_AssetGUID: c3a9b5d611a35464a8e473e4249a1df9
+    m_SubObjectName: LoadyDungeonsLogo
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  m_LogoAssetReferenceSprite:
+    m_AssetGUID: c3a9b5d611a35464a8e473e4249a1df9
+    m_SubObjectName: LoadyDungeonsLogo
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
 --- !u!1 &454594787
 GameObject:
   m_ObjectHideFlags: 0
