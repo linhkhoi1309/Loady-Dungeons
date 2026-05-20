@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: e6d9d80162bcf024a9834b4821937a5a
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 3d854a1e6e8773bbbff51858ac7173bc
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
   m_InternalIdNamingMode: 0
@@ -52,9 +52,9 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: c28c8237f8a646a408fd05fc2ef6219a
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: a376dd2413bd46945bff601a8d97b3c9
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -79,9 +79,9 @@ MonoBehaviour:
       - m_Id: 95afa9af71402894ab4e397300593168
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: a376dd2413bd46945bff601a8d97b3c9
-        m_Value: there
+        m_Value: 'http://127.0.0.1:9000/[BuildTarget]'
       - m_Id: c28c8237f8a646a408fd05fc2ef6219a
-        m_Value: here
+        m_Value: 'ServerData/[BuildTarget]'
       - m_Id: dac39a49c5e91474d9e2b52ee8b85cf8
         m_Value: DEFAULT
       - m_Id: dd74b60f8d08ac74c9683ab5dbca82ca
@@ -173,4 +173,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 79dadffe5ea78a8418c9af2dbb221ffd, type: 2}
   - {fileID: 11400000, guid: 307918cb88c11dd4995b349624c74084, type: 2}
   - {fileID: 11400000, guid: 90a5d76c73d3dbf4da8da28ca0038758, type: 2}
-  m_ActiveProfileId: eb283a528dc78e54cb2792cea31f624e
+  m_ActiveProfileId: d6cbb850c8028f54493e750e4646f712
