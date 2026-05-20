@@ -157,6 +157,9 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Fancy
+    - Seasonal
+    - Hats
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 3b0b8671068fc284d8278a229fed9e06, type: 2}
