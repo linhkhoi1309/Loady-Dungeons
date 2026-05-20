@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: Local Scenes
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
-  m_GUID: e6d9d80162bcf024a9834b4821937a5a
+  m_GroupName: Local Scenes
+  m_GUID: 7e728420059df304d8d69570f2fdbcdd
   m_SerializeEntries:
-  - m_GUID: c3a9b5d611a35464a8e473e4249a1df9
-    m_Address: LoadyDungeonsLogo
+  - m_GUID: a1e01d398699cc940a960600837600bd
+    m_Address: LoadingScene
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -24,5 +24,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: b0c3bd49984dd2443972f4af8c2ca348, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 5e6bb55992879cd44bae227de1ce4c92, type: 2}
-    - {fileID: 11400000, guid: 7382509120163444a9f2a3aaeffe6a20, type: 2}
+    - {fileID: 11400000, guid: d2c20cfb445c0df488644466f3b7fd66, type: 2}
+    - {fileID: 11400000, guid: 4eb5bc8d1e6038348b617f8740a6fe9d, type: 2}
